@@ -20,6 +20,6 @@ Our mission is to revolutionize campus duty management by providing a platform t
 We welcome contributions from the community. If you'd like to contribute to FORMBUDDY, please read our Contributing Guidelines for more information on how to get started.
 
 📬 Contact
-If you have any questions or feedback, feel free to contact us at support@formbuddy.com. You can also reach out to us via our social media channels.
+If you have any questions or feedback, feel free to contact us at formbuddys@gmail.com. You can also reach out to us via our social media channels.
 
 Thank you for choosing FORMBUDDY. We look forward to helping you streamline your campus duty management process.
